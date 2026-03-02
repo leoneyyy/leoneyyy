@@ -1,38 +1,34 @@
 # Hi, ich bin Leon
 
-Ich bin Student an der **Hochschule Osnabrück (HS OS)** und arbeite aktuell an **lumière** – einer MovieDB-App.  
-Gerade vertiefe ich mich in **JavaFX**, **Datenbanken** und **REST APIs**.
+Ich bin Student an der **Hochschule Osnabrück (HS OS)** und beschäftige mich aktuell viel mit **Java**, **JavaFX**, **Datenbanken** und **REST APIs**.
+
+Außerdem habe ich meine eigene Website aufgebaut: **https://leonschlender.com**
 
 ---
 
-## Projekt: lumière 🎬
-**lumière** ist aktuell eine Desktop-App (JavaFX), die mit **TMDB (The Movie Database)** arbeitet, Filmdaten über eine **REST API** abruft und Daten in **MySQL** speichert.
+## Aktuelles Projekt: lumière 🎬
+Ich arbeite gerade an **lumière** – einer MovieDB-App (inspiriert von den Brüdern Lumière, Pioniere des Kinos).
 
-Langfristig soll **lumière** zu einer mobilen App ausgebaut werden – für **Android** und **iOS (Apple)**.
+**Stand heute**
+- Desktop-App mit **JavaFX**
+- Filmdaten über **TMDB** (REST / JSON)
+- Speicherung in **MySQL**
 
-Der Name ist eine Anlehnung an die **Brüder Lumière** (Pioniere des Kinos).
-
----
-
-## Features
-### Bereits umgesetzt
-- ✅ TMDB-Integration (REST / JSON)
-- ✅ Persistenz in **MySQL**
-
-### Geplant
-- 🚧 „Account“-Bereich wie bei **Letterboxd/Serializd** (Profil, Stats, Aktivitäten)
-- 🚧 Listen/Watchlist & Logging (gesehen/geratet/reviewed)
-- 🚧 Social-Features (z. B. Folgen, Likes, Kommentare)
-- 🚧 UI/UX-Verbesserungen (Suche, Filter, Detailansichten)
-- 🚧 Mobile Clients: **Android** & **iOS**
+**Geplant**
+- Social-Features & „Account“-Bereich (in Richtung Letterboxd/Serializd)
+- Langfristig: **Android**- & **iOS**-App
 
 ---
 
-## Tech-Stack (aktuell)
-- **Sprache:** Java  
-- **UI:** JavaFX  
-- **API:** TMDB (REST, JSON)  
-- **Datenbank:** MySQL  
+## Projekte (Auswahl)
+- **Eventmate** – Projekt rund um Events/Planung (Java)  
+  https://github.com/leoneyyy/Eventmate
+- **PersonalFinaceManager** – persönlicher Finanzmanager (Java)  
+  https://github.com/leoneyyy/PersonalFinaceManager
+- **Sonnensystem** – kleines Projekt/Simulation zum Sonnensystem (Java)  
+  https://github.com/leoneyyy/Sonnensystem
+- **gifs** – kleines Java-Projekt/Experiment  
+  https://github.com/leoneyyy/gifs
 
 ---
 
@@ -44,4 +40,3 @@ Der Name ist eine Anlehnung an die **Brüder Lumière** (Pioniere des Kinos).
 
 ## Kontakt
 - E-Mail: leonschlender@gmx.de
-- Website: https://leonschlender.com
