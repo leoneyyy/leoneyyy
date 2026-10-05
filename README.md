@@ -1,6 +1,6 @@
 # Hi, ich bin Leon
 
-Ich bin Student und studiere Medieninformatik im Bachelor an der **Hochschule Osnabrück (HS OS)** und beschäftige mich aktuell viel mit **Java**, **JavaFX**, **Datenbanken** und **REST APIs**.
+Ich bin Student und studiere Medieninformatik im Bachelor an der **Hochschule Osnabrück (HS OS)** und beschäftige mich aktuell viel mit **Java**, **Datenbanken** und **REST APIs**.
 
 ---
 
