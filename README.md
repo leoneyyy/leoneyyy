@@ -3,7 +3,7 @@
   <h1>Hi, ich bin Leon 👋</h1>
 
   <a href="https://github.com/leoneyyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Medieninformatik+%40+HS+Osnabr%C3%BCck;Java+%7C+Datenbanken+%7C+REST+APIs;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Medieninformatik+%40+HS+Osnabr%C3%BCck;Java+%7C+Datenbanken+%7C+REST+APIs" alt="Typing SVG" />
   </a>
 
   <p>
@@ -18,6 +18,8 @@
   <p>
     🎓 Bachelor <b>Medieninformatik</b> an der <b>Hochschule Osnabrück</b><br>
     ☕ Aktueller Fokus: <b>Java</b>, <b>Datenbanken</b> und <b>REST APIs</b><br>
+    🌐 Web: <b>HTML</b>, <b>Servlets</b> und <b>WebSockets</b><br>
+    🌱 Gerade am Lernen: <i>Unity</i><br>
   </p>
 
   <hr>
@@ -28,6 +30,11 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=jakartaee&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   </p>
