@@ -19,7 +19,7 @@
     🎓 Bachelor <b>Medieninformatik</b> an der <b>Hochschule Osnabrück</b><br>
     ☕ Aktueller Fokus: <b>Java</b>, <b>Datenbanken</b> und <b>REST APIs</b><br>
     🌐 Web: <b>HTML</b>, <b>Servlets</b> und <b>WebSockets</b><br>
-    🌱 Gerade am Lernen: <i>Unity</i><br>
+    🌱 Gerade am Lernen: <b>Unity</b> und <b>Blender</b><br>
   </p>
 
   <hr>
