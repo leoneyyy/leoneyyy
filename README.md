@@ -1,25 +1,26 @@
 <div align="center">
 
-  <h1>Hi, ich bin Leon 👋</h1>
+  <h1>Hi, I'm Leon 👋</h1>
 
   <a href="https://github.com/leoneyyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Medieninformatik+%40+HS+Osnabr%C3%BCck;Java+%7C+Datenbanken+%7C+REST+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Media+Computer+Science+%40+HS+Osnabr%C3%BCck;Java+%7C+Databases+%7C+REST+APIs;I+build+things+that+work+(mostly)" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="mailto:leonschlender@gmx.de"><img src="https://img.shields.io/badge/E--Mail-leonschlender%40gmx.de-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/leoneyyy"><img src="https://img.shields.io/github/followers/leoneyyy?label=Follower&style=for-the-badge&logo=github&color=24292e" /></a>
+    <a href="mailto:leonschlender@gmx.de"><img src="https://img.shields.io/badge/Email-leonschlender%40gmx.de-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/leoneyyy"><img src="https://img.shields.io/github/followers/leoneyyy?label=Followers&style=for-the-badge&logo=github&color=24292e" /></a>
   </p>
 
   <hr>
 
-  <h3>🧑‍💻 Über mich</h3>
+  <h3>🧑‍💻 About me</h3>
 
   <p>
-    🎓 Bachelor <b>Medieninformatik</b> an der <b>Hochschule Osnabrück</b><br>
-    ☕ Aktueller Fokus: <b>Java</b>, <b>Datenbanken</b> und <b>REST APIs</b><br>
-    🌐 Web: <b>HTML</b>, <b>Servlets</b> und <b>WebSockets</b><br>
-    🌱 Gerade am Lernen: <b>Unity</b> und <b>Blender</b><br>
+    🎓 B.Sc. <b>Media Computer Science</b> at <b>Osnabrück University of Applied Sciences</b><br>
+    ☕ Current focus: <b>Java</b>, <b>databases</b> and <b>REST APIs</b><br>
+    🌐 Web: <b>HTML</b>, <b>Servlets</b> and <b>WebSockets</b><br>
+    🌱 Currently learning: <b>Unity</b> and <b>Blender</b><br>
+
   </p>
 
   <hr>
@@ -41,30 +42,30 @@
 
   <hr>
 
-  <h3>🚀 Projekte</h3>
+  <h3>🚀 Projects</h3>
 
   <table>
     <tr>
       <td width="50%" align="center" valign="top">
         <h4>📅 <a href="https://github.com/leoneyyy/Eventmate">Eventmate</a></h4>
-        Events planen und organisieren.<br/><br/>
+        Plan and organize events.<br/><br/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </td>
       <td width="50%" align="center" valign="top">
         <h4>💰 <a href="https://github.com/leoneyyy/PersonalFinaceManager">Personal Finance Manager</a></h4>
-        Persönliche Finanzen im Blick behalten.<br/><br/>
+        Keep track of your personal finances.<br/><br/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
-        <h4>🪐 <a href="https://github.com/leoneyyy/Sonnensystem">Sonnensystem</a></h4>
-        Kleine Simulation unseres Sonnensystems.<br/><br/>
+        <h4>🪐 <a href="https://github.com/leoneyyy/Sonnensystem">Solar System</a></h4>
+        A small simulation of our solar system.<br/><br/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </td>
       <td width="50%" align="center" valign="top">
         <h4>🎞️ <a href="https://github.com/leoneyyy/gifs">gifs</a></h4>
-        Experiment rund um GIFs in Java.<br/><br/>
+        An experiment with GIFs in Java.<br/><br/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </td>
     </tr>
@@ -85,6 +86,6 @@
 
   <hr>
 
-  <img src="https://komarev.com/ghpvc/?username=leoneyyy&color=2F81F7&style=flat-square&label=Profilaufrufe" />
+  <img src="https://komarev.com/ghpvc/?username=leoneyyy&color=2F81F7&style=flat-square&label=Profile+views" />
 
 </div>
