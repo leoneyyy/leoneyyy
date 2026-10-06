@@ -3,7 +3,7 @@
   <h1>Hi, I'm Leon 👋</h1>
 
   <a href="https://github.com/leoneyyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Media+Computer+Science+%40+HS+Osnabr%C3%BCck;Java+%7C+Databases+%7C+REST+APIs;I+build+things+that+work+(mostly)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Media+Computer+Science+%40+HS+Osnabr%C3%BCck;Java+%7C+Databases+%7C+REST+APIs;" alt="Typing SVG" />
   </a>
 
   <p>
